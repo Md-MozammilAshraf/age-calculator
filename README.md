@@ -13,3 +13,5 @@ Check out the live demo at https://lifetime-calculator.netlify.app/
 
 
 
+# 📸![age calculator](https://user-images.githubusercontent.com/127433098/235342722-1be7afa7-4371-43c4-a8a9-91f874c2e58c.PNG)
+Preview
