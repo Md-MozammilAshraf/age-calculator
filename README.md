@@ -23,3 +23,6 @@ Check out the live demo at https://lifetime-calculator.netlify.app/
 - Open index.html in your preferred browser
 - Enter your date of birth in the input field in the format of "MM/DD/YYYY"
 - Click on "Calculate" button to see your age in years, months, weeks, and days
+
+# Contribution
+This project is open for contributions. If you find a bug or want to add a new feature, feel free to create a pull request.
